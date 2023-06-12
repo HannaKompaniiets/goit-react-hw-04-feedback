@@ -25,7 +25,7 @@ const  App = () => {
       default:
         break;
     }
-  }
+  };
 
     const countTotalFeedback = () => {
       const total = good + neutral + bad;
